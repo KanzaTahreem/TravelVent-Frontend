@@ -131,7 +131,7 @@ _**Reservations:**_
 ## 🔗 Back End Link <a name="documentation"></a>
 > _Our backend code is stored in a separate repository and is built using ruby on rails. The backend is responsible for processing data and handling API requests from the frontend. To access our backend code, please click on the provided link below._
 
- &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://capstone-backend-gz9j.onrender.com/api-docs/index.html">
+ &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/KanzaTahreem/TravelVent-Backend">
     <img alt="documentation" width="140px"  height="35px" src="https://img.shields.io/badge/Backend-EC3750?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
   </a>
 
@@ -246,7 +246,7 @@ You can deploy this project using:
       <img alt="ruby" width="130px" height="35px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
     </a>
     <br>
- &nbsp;&nbsp;&nbsp;&nbsp;<a href="ttps://www.linkedin.com/in/kanza-tahreem/">
+ &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/kanza-tahreem/">
       <img alt="ruby" height="35px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
 
